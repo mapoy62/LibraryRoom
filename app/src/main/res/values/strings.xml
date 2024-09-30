@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LibraryRoom</string>
+    <string name="noRegistersBooks">There is no registers! :c</string>
+    <string name="add_element">Add new book</string>
+    <string name="GenreDescriptionLabel">Genre of the selected book</string>
+    <string name="genre_of_the_book">Genre of the book</string>
+    <string name="header_bookshelf">Header Bookshelf</string>
+    <string name="title">Title</string>
+    <string name="author_of_the_book">Author of the book</string>
+    <string name="published_year">Published Year</string>
+</resources>
